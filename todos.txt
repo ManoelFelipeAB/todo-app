@@ -1,3 +1,2 @@
-ler livro
-tomar cafe
-academia
+Acordar
+Tomar cafeLer livroAcademia
